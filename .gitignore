@@ -1,0 +1,13 @@
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/resources/gradle-wrapper.jar
+/out/
+.idea
+*.iws
+*.iml
+*.ipr
+.vscode/
+bin/
+/build/
+.DS_Store
