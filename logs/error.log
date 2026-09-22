@@ -1,1 +1,0 @@
-2026-09-16T20:33:54.249+07:00 ERROR 18420 --- [spring-boot-logging-demo] [http-nio-8080-exec-1] c.e.loggingdemo.service.OrderService     : Tạo hóa đơn cho đơn hàng có OrderId là : 736b68f5-a6e7-44dd-a2ac-99c24df2c1ad

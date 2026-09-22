@@ -16,9 +16,9 @@ public class OrderService {
         // tạo 1 mã định danh duy nhất cho hóa đơn
         String orderId = UUID.randomUUID().toString();
         // Để ghi log đc thì cần 1 đối tượng Logger
-        log.info("Tạo hóa đơn cho đơn hàng có OrderId là : {}", orderId);
-        log.warn("Tạo hóa đơn cho đơn hàng có OrderId là : {}", orderId);
         log.error("Tạo hóa đơn cho đơn hàng có OrderId là : {}", orderId);
+        log.warn("Tạo hóa đơn cho đơn hàng có OrderId là : {}", orderId);
+        log.info("Tạo hóa đơn cho đơn hàng có OrderId là : {}", orderId);
         log.debug("Tạo hóa đơn cho đơn hàng có OrderId là : {}", orderId);
         log.trace("Tạo hóa đơn cho đơn hàng có OrderId là : {}", orderId);
     }

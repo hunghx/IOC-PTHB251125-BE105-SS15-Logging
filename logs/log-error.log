@@ -1,0 +1,4 @@
+2026-09-22 18:54:30.943 ERROR [http-nio-8080-exec-1] c.e.loggingdemo.service.OrderService - Tạo hóa đơn cho đơn hàng có OrderId là : 928f8322-4d90-41fc-b393-4281cfa14ead
+2026-09-22 18:54:32.027 ERROR [http-nio-8080-exec-3] c.e.loggingdemo.service.OrderService - Tạo hóa đơn cho đơn hàng có OrderId là : d340e95e-87a9-454d-a329-6e09e2dc3eac
+2026-09-22 18:54:33.136 ERROR [http-nio-8080-exec-7] c.e.loggingdemo.service.OrderService - Tạo hóa đơn cho đơn hàng có OrderId là : df4fad6f-5596-4a9a-a2f4-41894768001d
+2026-09-22 18:54:34.503 ERROR [http-nio-8080-exec-8] c.e.loggingdemo.service.OrderService - Tạo hóa đơn cho đơn hàng có OrderId là : 04dceb3f-548a-4095-b5b3-77145fd379fb
