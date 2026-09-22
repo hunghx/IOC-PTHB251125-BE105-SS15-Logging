@@ -1,0 +1,2 @@
+2026-09-22 19:32:47.004 ERROR [http-nio-8080-exec-2] c.e.loggingdemo.service.OrderService - Tạo hóa đơn cho đơn hàng có OrderId là : c7e7380b-6809-425c-84bf-eca64919400b
+2026-09-22 19:32:47.505 ERROR [http-nio-8080-exec-3] c.e.loggingdemo.service.OrderService - Tạo hóa đơn cho đơn hàng có OrderId là : 33f20eee-3d0f-452e-94cd-1d4e1540d1e1
